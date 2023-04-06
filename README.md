@@ -39,4 +39,5 @@ untuk mengendalikannya menggunakan platfrom blynk melalui aplikasi maupun websit
 ![p2](https://user-images.githubusercontent.com/102194104/229738247-eec13dc5-071a-4060-862b-045999aae620.jpeg)
 
 ### Link Video
+https://drive.google.com/file/d/197oGBmrsMequPrntSJ31VcBCabhrdx1u/view?usp=share_link
 
